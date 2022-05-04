@@ -4,7 +4,7 @@ Donate link: http://iran98.org/
 Tags: wordpress, vip, user, role, payment, download, download per payment, persian, parsi
 Requires at least: 4.0
 Tested up to: 4.9.8
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Pay per download for VIP user in WordPress
 
@@ -59,6 +59,9 @@ A powerful plugin Pay per download manager for WordPress
 * Start plugin
 
 == Changelog ==
+= 1.0.4 =
+* Fix: Database tables version
+
 = 1.0.3 =
 * Improvement: Changelog has been updated
 
