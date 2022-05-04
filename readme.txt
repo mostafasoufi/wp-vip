@@ -1,7 +1,7 @@
 === WordPress VIP ===
 Contributors: mostafa.s1990, man4toman, parselearn
 Donate link: http://iran98.org/
-Tags: wordpress, vip, user, role, payment, download, download per payment, persian, parsi, iran
+Tags: wordpress, vip, user, role, payment, download, download per payment, persian, parsi
 Requires at least: 4.0
 Tested up to: 4.9.8
 Stable tag: 1.0.2
@@ -29,11 +29,11 @@ for translate, please open langs/default.po by Poedit and translate strings.
 == Installation ==
 1. Upload `vip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Goto setting page and managment setting.
-4. Goto roles user page and create new role.
-5. Goto users page and add new user to role.
-6. Goto files page and upload a new file to role and get download link for using in post/page.
-7. Goto payments page and add new payment for user.
+3. Goto setting page and management setting.
+4. Go to roles user page and create new role.
+5. Go to users page and add new user to role.
+6. Go to files page and upload a new file to role and get download link for using in post/page.
+7. Go to payments page and add new payment for user.
 8. Other functions plugin:
 
 * Convert Byte to MB: `<?php echo vip_formatSizeUnits($byte); ?>`
@@ -49,14 +49,15 @@ A powerful plugin Pay per download manager for WordPress
 
 == Screenshots ==
 1. Screen shot (screenshot-1.png) in Setting page
-2. Screen shot (screenshot-2.png) in Roles managment page
-3. Screen shot (screenshot-3.png) in Users managment page
-4. Screen shot (screenshot-4.png) in Files managment page
-5. Screen shot (screenshot-5.png) in Payments managment page
+2. Screen shot (screenshot-2.png) in Roles management page
+3. Screen shot (screenshot-3.png) in Users management page
+4. Screen shot (screenshot-4.png) in Files management page
+5. Screen shot (screenshot-5.png) in Payments management page
 
 == Upgrade Notice ==
 = 1.0.2 =
-* Fix typo & things
+* Improvement: Sanitize data input
+* Improvement: typos & setup CI/CD
 
 = 1.0 =
 * Start plugin

@@ -19,7 +19,7 @@
 	function vip_post_save($post_ID) {
 
 		if( isset( $_POST['vip_post_role'] ) )
-		update_post_meta($post_ID, 'post_role', $_POST['vip_post_role']);
+		update_post_meta($post_ID, 'post_role', sanitize_text_field($_POST['vip_post_role']));
 
 	}
 	add_action('save_post', 'vip_post_save');
