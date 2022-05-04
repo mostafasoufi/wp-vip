@@ -1,15 +1,15 @@
-=== Wordpress VIP ===
+=== WordPress VIP ===
 Contributors: mostafa.s1990, man4toman, parselearn
 Donate link: http://iran98.org/
 Tags: wordpress, vip, user, role, payment, download, download per payment, persian, parsi, iran
 Requires at least: 4.0
 Tested up to: 4.9.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
-Pay per download for VIP user in wordpress
+Pay per download for VIP user in WordPress
 
 == Description ==
-A powerful plugin Pay per download manager for wordpress
+A powerful plugin Pay per download manager for WordPress
 
 Features:
 
@@ -45,7 +45,7 @@ for translate, please open langs/default.po by Poedit and translate strings.
 * Get file role: `<?php echo vip_get_file_role($file_id, $column); ?>`
 
 == Frequently Asked Questions ==
-A powerful plugin Pay per download manager for wordpress
+A powerful plugin Pay per download manager for WordPress
 
 == Screenshots ==
 1. Screen shot (screenshot-1.png) in Setting page
@@ -55,6 +55,9 @@ A powerful plugin Pay per download manager for wordpress
 5. Screen shot (screenshot-5.png) in Payments managment page
 
 == Upgrade Notice ==
+= 1.0.2 =
+* Fix typo & things
+
 = 1.0 =
 * Start plugin
 

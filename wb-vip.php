@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Wordpress VIP
+Plugin Name: WordPress VIP
 Plugin URI: http://iran98.org/category/wordpress/wp-vip/
-Description: Pay per download for VIP user in wordpress
-Version: 1.0.1
-Author: Wordpress Parsi
-Author URI: http://wp-parsi.com/
+Description: Pay per download for VIP user in WordPress
+Version: 1.0.2
+Author: WordPress Parsi
+Author URI: https://wp-parsi.com/
 License: GPL2
 */
 	define('VIP_VERSION', '1.0');
