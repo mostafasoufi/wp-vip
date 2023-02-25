@@ -3,7 +3,7 @@
 Plugin Name: WordPress VIP
 Plugin URI: http://iran98.org/category/wordpress/wp-vip/
 Description: Pay per download for VIP user in WordPress
-Version: 1.0.4
+Version: 1.0.5-beta.1
 Author: WordPress Parsi
 Author URI: https://wp-parsi.com/
 License: GPL2
